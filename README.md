@@ -28,7 +28,7 @@ A simple Worker Service that consumes messages from RabbitMQ using Fisdane.Rabbi
 
 ---
 
-## 📦 Sample.Wrker
+## 📦 Sample.Shared
 
 Shared library containing shared models and events used by both the API and Worker. 
 
